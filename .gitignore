@@ -1,0 +1,13 @@
+npm-debug.log
+.merlin
+.ionide
+yarn-error.log
+node_modules
+node_modules/
+_build
+_release
+_esy/
+sorte.install
+.DS_Store
+*.install
+.vscode
